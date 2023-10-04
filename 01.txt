@@ -1,0 +1,25 @@
+15/01/X1 - CRÉDITO - PATRIMÔNIO - Capital Integralizado - 35.000
+15/01/X1 - DÉBITO - ATIVO - Caixa - 35.000
+
+18/01/X1 - CRÉDITO - ATIVO - Imóvel - 30.000
+18/01/X1 - DÉBITO - ATIVO - Caixa - 3.000
+18/01/X1 - DÉBITO - PASSIVO - Duplicatas - 27.000
+
+19/01/X1 - DÉBITO - ATIVO - Móveis - 3.000
+19/01/X1 - CRÉDITO - ATIVO - Caixa - 3.000
+
+20/01/X1 - CRÉDITO - ATIVO - Equipamentos - 8.500
+20/01/X1 - DÉBITO - PASSIVO - Fornecedores - 8.500
+
+23/01/X1 - CRÉDITO - PASSIVO - Empréstimo Bancário - 15.000
+23/01/X1 - DÉBITO - ATIVO - Banco - 15.000
+
+25/01/X1 - DÉBITO - PASSIVO - Fornecedores - 5.000
+25/01/X1 - CRÉDITO - ATIVO - Banco - 5.000
+
+27/01/X1 - CRÉDITO - PATRIMÔNIO - Capital Integralizado - 10.000
+27/01/X1 - DÉBITO - ATIVO - Caixa - 10.000
+
+30/01/X1 - DÉBITO - DESPESA - Custo de Mercadorias Vendidas - 17.000
+30/01/X1 - DÉBITO - ATIVO - Estoque - 17.000
+30/01/X1 - CRÉDITO - ATIVO - Caixa - 17.000
